@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIVING HOPE BAPTIST CHURCH", "LIVING HOPE BAPTIST CHURCH\LIVING HOPE BAPTIST CHURCH.csproj", "{BE4677F8-CB27-4937-816F-FFD72B3114DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIVING HOPE BAPTIST CHURCH.Tests", "LIVING HOPE BAPTIST CHURCH.Tests\LIVING HOPE BAPTIST CHURCH.Tests.csproj", "{870E8D7B-10C3-49FC-8147-92A7CAA0EB3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4677F8-CB27-4937-816F-FFD72B3114DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4677F8-CB27-4937-816F-FFD72B3114DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4677F8-CB27-4937-816F-FFD72B3114DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4677F8-CB27-4937-816F-FFD72B3114DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870E8D7B-10C3-49FC-8147-92A7CAA0EB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870E8D7B-10C3-49FC-8147-92A7CAA0EB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870E8D7B-10C3-49FC-8147-92A7CAA0EB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870E8D7B-10C3-49FC-8147-92A7CAA0EB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
