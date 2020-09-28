@@ -45,7 +45,7 @@ namespace LIVING_HOPE_BAPTIST_CHURCH
         SqlCommand cmd = new SqlCommand();
         
         private void btnSave_Click(object sender, EventArgs e)
-        {
+        {//trying commit  change for the first time
             ImgLoc = "";
             try
             {
