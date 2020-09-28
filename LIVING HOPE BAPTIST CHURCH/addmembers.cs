@@ -38,6 +38,7 @@ namespace LIVING_HOPE_BAPTIST_CHURCH
         private void addmembers_Load(object sender, EventArgs e)
         {
             loadMemberRecords(); 
+            //wow
         }
 
 
